@@ -1,0 +1,8 @@
+C:\projects\GridViewBug\GridViewBug.Core\bin\Debug\GridViewBug.Core.dll
+C:\projects\GridViewBug\GridViewBug.Core\bin\Debug\GridViewBug.Core.pdb
+C:\projects\GridViewBug\GridViewBug.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\projects\GridViewBug\GridViewBug.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\projects\GridViewBug\GridViewBug.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\projects\GridViewBug\GridViewBug.Core\obj\Debug\GridViewBug.Core.csprojResolveAssemblyReference.cache
+C:\projects\GridViewBug\GridViewBug.Core\obj\Debug\GridViewBug.Core.dll
+C:\projects\GridViewBug\GridViewBug.Core\obj\Debug\GridViewBug.Core.pdb

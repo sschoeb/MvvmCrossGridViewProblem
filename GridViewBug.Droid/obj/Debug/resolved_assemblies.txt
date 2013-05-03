@@ -1,0 +1,11 @@
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\GridViewBug.Droid.dll
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\Cirrious.CrossCore.dll
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\Cirrious.MvvmCross.dll
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\System.Windows.dll
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\projects\GridViewBug\GridViewBug.Droid\bin\Debug\GridViewBug.Core.dll
+C:\projects\GridViewBug\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\MonoAndroid16\Cirrious.MvvmCross.Localization.dll
+C:\projects\GridViewBug\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\MonoAndroid16\System.Net.dll
